@@ -1,4 +1,4 @@
-For more information about build this project go to the next link: 
+For more information on how to build this project go to the following link: 
 http://nexushare.260mb.net/2017/12/23/crud-codeigniter-plpgsql-de-postgre-ajax-datatable-server-side/
 
 #####################################################################################################################################
